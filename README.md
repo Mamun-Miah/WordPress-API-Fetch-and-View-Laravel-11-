@@ -101,3 +101,4 @@ Route::get('/{slug}', \[BlogController::class, 'show'\])-\>name('blog.show');
         \</div\>  
     \</div\>  
 @endsection  
+mdmamunmiah.com
